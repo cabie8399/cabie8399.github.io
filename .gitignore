@@ -3,6 +3,6 @@ blog/Thumbs.db
 blog/db.json
 blog/*.log
 blog/node_modules/
-public/
+blog/public/
 blog/.deploy*/
 blog/_multiconfig.yml
