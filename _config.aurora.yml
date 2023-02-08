@@ -9,15 +9,15 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
-  nick: Auroral UI
-  description:
+  subtitle: Cabie Wu's Blog
+  author: Cabie Wu
+  nick: 'Happy Coding ! Happy Life !'
+  description: '喜歡嘗試各種事物和學習新領域，就用這BLOG紀錄下來吧!<br><br> 走得慢沒關係，但每天都要進步一點!'
   link: '/'
-  language: en
+  language: cn
   multi_language: true
   logo: https://img-blog.csdnimg.cn/20210313122054101.png
-  avatar: https://img-blog.csdnimg.cn/20210313122054101.png
+  avatar: https://sites.google.com/site/jiayulpy/_/rsrc/1466150305751/1235/2.jpg
   beian:
     number: ''
     link: ''
@@ -39,14 +39,26 @@ authors:
   #   socials:
   #     github: https://tridiamond.tech
 
+  TriDiamond:
+    name: Cabie Wu
+    avatar: https://up.enterdesk.com/edpic_source/44/ff/3d/44ff3d6bd2819d524facfcc33205d4cd.jpg
+    link: https://github.com/cabie8399/cabie8399.github.io
+    description: '喜歡嘗試各種事物和學習新領域，就用這BLOG紀錄下來吧!'
+    socials:
+      github: https://github.com/cabie8399
+
 #! ---------------------------------------------------------------
 #! Menu Configs
 #！ @docs https://aurora.tridiamond.tech/guide/menu.html
 #! ---------------------------------------------------------------
 menu:
-  About: true
+  About: false
+  AboutMe:
+    name: 'About'
+    path: '/post/About%2Findex'
   Tags: true
   Archives: true
+
 
 #! ---------------------------------------------------------------
 #! Theme Config
@@ -54,8 +66,10 @@ menu:
 #! ---------------------------------------------------------------
 theme:
   dark_mode: true
-  profile_shape: diamond # support `circle`, `diamond`, `rounded`
+  # 头像形状
+  profile_shape: circle # support `circle`, `diamond`, `rounded`
   feature: true
+  # 渐变颜色
   gradient:
     color_1: '#24c6dc'
     color_2: '#5433ff'
@@ -82,6 +96,8 @@ socials:
   # book:
   #   icon: far fa-address-book
   #   link: https://live.bilibili.com/22619211
+
+  github: 'https://github.com/cabie8399'
 
 #! ---------------------------------------------------------------
 #! Site Meta Configs
@@ -141,10 +157,10 @@ copy_protection:
     cn: 作者
     en: Author
   link:
-    cn: 本文来自于
+    cn: 本文來自於
     en: Article is from
   license:
-    cn: 博客内容遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议
+    cn: BLOG内容遵循 署名-非商業性使用-相同方式共享 4.0 國際 (CC BY-NC-SA 4.0) 協議
     en: This content is shared under the CC BY-NC-SA 4.0 protocol (Non-Commercial)
 
 #! ---------------------------------------------------------------
@@ -152,8 +168,8 @@ copy_protection:
 #! @docs https://aurora.tridiamond.tech/guide/site-meta.html#custom-meta
 #! ---------------------------------------------------------------
 aurora_bot:
-  enable: false
-  locale: en
+  enable: true
+  locale: cn
   bot_type: dia
   tips:
 

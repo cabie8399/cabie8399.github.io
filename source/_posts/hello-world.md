@@ -1,38 +1,32 @@
 ---
-title: Hello World
+title: 我的世界
+date: 2023-01-19 18:49:36
+tags:
+  - 我的世界
+categories:
+  - 我的世界
+cover: https://news.agentm.tw/wp-content/uploads/minecraft-hero-og-768x403.jpg
+feature: false
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+# 第一篇-測試
 
-### Create a new post
+![](https://img.unikoshardware.com/wp-content/uploads/2020/08/nvidia-windows-minecraft-rtx-beta.jpg)
 
-``` bash
-$ hexo new "My New Post"
-```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
 
-``` bash
-$ hexo server
-```
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
 
-``` bash
-$ hexo generate
-```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
 
-``` bash
-$ hexo deploy
-```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+
+
+
+
+
+
