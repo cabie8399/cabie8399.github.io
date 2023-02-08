@@ -1,8 +1,8 @@
-blog/.DS_Store
-blog/Thumbs.db
-blog/db.json
-blog/*.log
-blog/node_modules/
-blog/public/
-blog/.deploy*/
-blog/_multiconfig.yml
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
