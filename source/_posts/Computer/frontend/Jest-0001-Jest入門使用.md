@@ -9,6 +9,10 @@ cover: https://miro.medium.com/v2/resize:fit:828/format:webp/1*Lj98LRbO4tDyE9UCx
 feature: true
 ---
 
+
+[Github程式範例](https://github.com/cabie8399/Study_Note/tree/main/Javascript/0001_jest_test)
+
+
 # 為何要做測試 ?
 
 為了在人工測試前先進行初步的除錯，發展出了自動化測試。
