@@ -1,5 +1,5 @@
 ---
-title: "[Jset] Jset入門使用"
+title: "[Jest] Jest入門使用"
 date: 2023-02-10 12:26:36
 tags:
   - jest
