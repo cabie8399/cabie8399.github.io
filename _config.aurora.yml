@@ -53,11 +53,12 @@ authors:
 #! ---------------------------------------------------------------
 menu:
   About: false
+  Tags: true
+  Archives: true
+  # 自我介紹
   AboutMe:
     name: 'About'
     path: 'https://cosmic-cornflower-c38.notion.site/Cabie-Wu-27bb0a12f9e746a6837e7f2b37918cc1'
-  Tags: true
-  Archives: true
   # 推薦連結
   Link:
     name: 'Link'
@@ -65,6 +66,7 @@ menu:
       awesomeproject:
         name: '推薦專案'
         path: 'https://cosmic-cornflower-c38.notion.site/Awesome_Project-6589bccb2ea54d4ca45bb2fa71022acf'
+
 
 
 #! ---------------------------------------------------------------
