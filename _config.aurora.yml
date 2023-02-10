@@ -58,6 +58,13 @@ menu:
     path: '/post/About%2Findex'
   Tags: true
   Archives: true
+  # 推薦連結
+  Link:
+    name: 'Link'
+    children:
+      awesomeproject:
+        name: '推薦專案'
+        path: 'https://cosmic-cornflower-c38.notion.site/Awesome_Project-6589bccb2ea54d4ca45bb2fa71022acf'
 
 
 #! ---------------------------------------------------------------
