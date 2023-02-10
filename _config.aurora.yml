@@ -55,7 +55,7 @@ menu:
   About: false
   AboutMe:
     name: 'About'
-    path: 'https://cabie8399.github.io/post/About%2Findex'
+    path: '/post/About%2Findex'
   Tags: true
   Archives: true
   # 推薦連結
