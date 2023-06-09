@@ -56,7 +56,7 @@ menu:
   Tags: true
   Archives: true
   # 系列筆記
-  Author:
+  MyBooks:
     name: 'MyBooks'
     path: 'https://hackmd.io/@mybooks/rJOZtV-wn'
   # 推薦連結
